@@ -1,0 +1,22 @@
+table {
+    table-layout: fixed;
+    width: 80%;
+    border-collapse: collapse;
+    background-color: rgba(128, 144, 224, 0.317);
+  }
+  th, td {
+    padding: 15px;
+  }
+  body {
+    background-color: rgba(237, 212, 181, 0.799);
+}
+table, th, td {
+    border: 2px solid rgb(255, 0, 0)
+}
+img {
+    border: 2px solid rgb(255, 0, 0);
+}
+th {
+    height: 20%;
+    font-weight: 900;
+}
